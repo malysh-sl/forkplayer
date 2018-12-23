@@ -3,9 +3,9 @@
 https://raw.githubusercontent.com/malysh-sl/ForkPlaer/master/MOY-PLAY-LIST.M3U
 #EXTINF:-1,{Группа https://vk.com/SL22
 https://bit.ly/2Sic6o2
-#EXTINF:-1,{Пожертвования https://webarmen.com/iptv
-https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
-#EXTINF:-1,{Ваша поддержка помогает развивать проект и улучшать его качество!
+#EXTINF:-1,TV-1
+http://bluecrabstv.do.am/Free.m3u
+#EXTINF:-1,{Ваша поддержка помогает развивать проект и улучшать его качество
 https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
 #EXTINF:-1 group-title="Новости;HD" tvg-id="7663" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
 #EXTGRP:Новости
