@@ -10,41 +10,43 @@ https://vk.com/public142615693
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
 https://raw.githubusercontent.com/malysh-sl/forkplayer/master/online.m3u
-#EXTINF:-1,IPTV-1
+#EXTINF:-1,IPTV-1  480 каналов
 http://bluecrabstv.do.am/Free.m3u
 
-#EXTINF:-1,IPTV-2  287 каналов 18+
+#EXTINF:-1,IPTV-2  322 каналов 18+
 http://motivation.pp.ua/Stabil_05_18.m3u
 
-#EXTINF:-1,IPTV-3
+#EXTINF:-1,IPTV-3   каналов
 http://onlyiptv.info/iptv/OnlyWorkMUZ.m3u
 
 #EXTINF:-1,IPTV-4
-http://motivation.pp.ua/Stabil_05_18.m3u
+https://smarttvapp.ru/app/iptvfull.m3u
+
+
 
 #EXTINF:-1,IPTV-5
-https://smarttvapp.ru/app/iptvfull.m3u
-
-#EXTINF:-1,IPTV-6
 http://iptv.slunet.tv/FreeBestTV.m3u
 
-#EXTINF:-1,IPTV-7
+#EXTINF:-1,IPTV-6
 https://webhalpme.ru/iptvforever18.m3u
 
-#EXTINF:-1,IPTV-8
+#EXTINF:-1,IPTV-7
 https://smarttvapp.ru/app/iptvfull.m3u
 
-#EXTINF:-1,IPTV-9
+#EXTINF:-1,IPTV-8
 http://freemyiptvlistvlist.at.ua/ipnet.m3u8
 
-#EXTINF:-1,IPTV-10
+#EXTINF:-1,IPTV-9
 http://freemyiptvlist.at.ua/fan-tv.xml
 
-#EXTINF:-1,IPTV-11
+#EXTINF:-1,IPTV-10
 http://iptviptv.do.am/_ld/0/1_IPTV.m3u
 
-#EXTINF:-1,IPTV-
-
-#EXTINF:-1,IPTV-
-
+#EXTINF:-1,IPTV-11
 http://ottv.tk/public/plst/plstfb/iptvworld.m3u
+
+#EXTINF:-1,IPTV-
+
+#EXTINF:-1,IPTV-
+
+
