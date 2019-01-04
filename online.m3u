@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1,-----------------Обновлён 21.12.2018-----------
+#EXTINF:-1,-----------------Обновлён 04.01.2019-----------
 https://raw.githubusercontent.com/malysh-sl/ForkPlaer/master/MOY-PLAY-LIST.M3U
-#EXTINF:-1,---------------------Группа VK----------------
+#EXTINF:-1,-Группа VK-vk.com/public142615693
 https://vk.com/public142615693
 #EXTGRP:------------------------ЗДЕСЬ ВСЕ МОИ САМООБНОВЛЯЮЩИЕСЯ ПЛЕЙ ЛИСТЫ СОБРАНЫ В ИНТЕРНЕТЕ------------------------
 --------------------------------------------------------------------------------------------------------------
@@ -16,13 +16,12 @@ http://bluecrabstv.do.am/Free.m3u
 #EXTINF:-1,IPTV-2  322 каналов 18+
 http://motivation.pp.ua/Stabil_05_18.m3u
 
+
 #EXTINF:-1,IPTV-3   каналов
 http://onlyiptv.info/iptv/OnlyWorkMUZ.m3u
 
 #EXTINF:-1,IPTV-4
 https://smarttvapp.ru/app/iptvfull.m3u
-
-
 
 #EXTINF:-1,IPTV-5
 http://iptv.slunet.tv/FreeBestTV.m3u
